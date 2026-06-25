@@ -16,7 +16,9 @@
 
 * SQL Techniques: Utilized Common Table Expressions (CTEs), CASE statements for risk classification, window functions for aggregation, and complex JOIN logic.
 
-## Overview of the Database  	![](Images/Picture%1.png)
+## Overview of the Database  	![](Images/Picture%2.png)
+
+## Final query ready to work on Python  	![](Images/Picture%1.png)
 
 # [Project 2: Fraud Detection Modeling (Python)](https://github.com/bagnerrobleto-dot/Python-Exploratory-Analysis/blob/main/Fraud_Trx%20Data%20Analysis.ipynb)
 
