@@ -37,4 +37,9 @@
 
 * Library Ecosystem: Leveraged pandas for manipulation, seaborn/matplotlib for visual correlation analysis, and scikit-learn for pre-processing.
 
-* Feature Optimization: Streamlined the feature space by removing highly collinear variables, reducing noise
+* Feature Optimization: Streamlined the feature space by removing highly collinear variables, reducing noise.
+
+## Correlation Heatmap 
+![](Images/Correlation_HP.png)
+## View of the class imbalance
+![](Images/Class_Imbalance.png)
