@@ -18,7 +18,7 @@
 
 ## Overview of the Database  	![](Picture 1.png)
 
-# [Project 2: Fraud Detection Modeling (Python)] (https://github.com/bagnerrobleto-dot/Python-Exploratory-Analysis/blob/main/Fraud_Trx%20Data%20Analysis.ipynb)
+# [Project 2: Fraud Detection Modeling (Python)](https://github.com/bagnerrobleto-dot/Python-Exploratory-Analysis/blob/main/Fraud_Trx%20Data%20Analysis.ipynb)
 
 ##This notebook processes the flattened dataset exported from your SQL pipeline. It focuses on understanding the data distribution and preparing the features for predictive modeling. The workflow includes:
 
