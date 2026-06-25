@@ -20,7 +20,7 @@
 
 # [Project 2: Fraud Detection Modeling (Python)](https://github.com/bagnerrobleto-dot/Python-Exploratory-Analysis/blob/main/Fraud_Trx%20Data%20Analysis.ipynb)
 
-##This notebook processes the flattened dataset exported from your SQL pipeline. It focuses on understanding the data distribution and preparing the features for predictive modeling. The workflow includes:
+## This notebook processes the flattened dataset exported from your SQL pipeline. It focuses on understanding the data distribution and preparing the features for predictive modeling. The workflow includes:
 
 * Exploratory Data Analysis (EDA): Performed high-level data profiling, including shape validation, missing value identification, and class imbalance assessment (fraud vs. non-fraud).
 
@@ -30,7 +30,7 @@
 
 * Multicollinearity Mitigation: Used a correlation matrix heatmap to identify highly redundant features (e.g., overlapping amount formats and temporal frequency counts) and dropped them to ensure model interpretability and better performance.
 
-##Technical Highlights
+## Technical Highlights
 
 * Library Ecosystem: Leveraged pandas for manipulation, seaborn/matplotlib for visual correlation analysis, and scikit-learn for pre-processing.
 
