@@ -15,3 +15,23 @@
 ## Technical Highlights
 
 * SQL Techniques: Utilized Common Table Expressions (CTEs), CASE statements for risk classification, window functions for aggregation, and complex JOIN logic.
+
+## Overview of the Database  	![](Picture 1.png)
+
+# [Project 2: Fraud Detection Modeling (Python)] (https://github.com/bagnerrobleto-dot/Python-Exploratory-Analysis/blob/main/Fraud_Trx%20Data%20Analysis.ipynb)
+
+##This notebook processes the flattened dataset exported from your SQL pipeline. It focuses on understanding the data distribution and preparing the features for predictive modeling. The workflow includes:
+
+* Exploratory Data Analysis (EDA): Performed high-level data profiling, including shape validation, missing value identification, and class imbalance assessment (fraud vs. non-fraud).
+
+* Data Cleaning & Imputation: Addressed data sparsity by replacing missing values in risk scores (device and IP) with median values, ensuring a robust input set.
+
+* Feature Engineering: Created informative "missingness flags" (e.g., cvv_missing) to capture potential patterns where incomplete transaction details correlate with fraudulent activity.
+
+* Multicollinearity Mitigation: Used a correlation matrix heatmap to identify highly redundant features (e.g., overlapping amount formats and temporal frequency counts) and dropped them to ensure model interpretability and better performance.
+
+##Technical Highlights
+
+* Library Ecosystem: Leveraged pandas for manipulation, seaborn/matplotlib for visual correlation analysis, and scikit-learn for pre-processing.
+
+* Feature Optimization: Streamlined the feature space by removing highly collinear variables, reducing noise
